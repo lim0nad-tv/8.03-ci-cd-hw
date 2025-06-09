@@ -44,7 +44,9 @@ nothing to commit, working tree clean`
 6. Отредактировал файл README.md (добавил текст).
 
 7. После редактирования git status показал:
-
+Changes not staged for commit:
+  modified:   README.md
+  
 8. Проверил изменения:
 git diff
 
