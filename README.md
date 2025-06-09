@@ -31,29 +31,33 @@
 ```bash
 git clone https://github.com/lim0nad-tv/8.03.git
 cd 8.03 ....`
+
 3. `Клонировал репозиторий: ....`
+
 4. `Зgit config --global user.name "Расулов Магомед"
 git config --global user.email "rasulov999@yandex.ru"`
+
 5. `ЗВыполнил git status:
 On branch main
 nothing to commit, working tree clean`
+
 6. Отредактировал файл README.md (добавил текст).
+
 7. После редактирования git status показал:
+
 8. Проверил изменения:
 git diff
+
 9.Добавил файл в staged:
 git add README.md
-```
+
 10.Проверил снова
 git diff --staged
 
 11. Сделал коммит:
-
 git commit -m "First commit"
 
-12. 
-Отправил на GitHub:
-
+12. Отправил на GitHub:
 git push origin main
 
 
