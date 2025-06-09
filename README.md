@@ -62,8 +62,8 @@ git commit -m "First commit"
 12. Отправил на GitHub:
 git push origin main
 
-
-
+13. 
+https://github.com/lim0nad-tv/8.03/commits/main/
 
 
 
